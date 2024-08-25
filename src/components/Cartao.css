@@ -1,0 +1,9 @@
+.cartao{
+    background-color: #d038ee; /* Cor de fundo clara e neutra */
+    width: 550px;
+    padding: 20px; /* Aumenta o espaço interno */
+    border-radius: 10px; /* Cantos arredondados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    border: 1px solid #ddd; /* Borda fina e clara */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+  }
